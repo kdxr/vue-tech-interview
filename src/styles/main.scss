@@ -1,0 +1,12 @@
+@import "./font";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	font-family: "IBM Plex Sans Thai", sans-serif;
+	padding: 0;
+	margin: 0;
+	background: #39b7e8;
+}
